@@ -1,4 +1,4 @@
-# SBOL Industrial Summer Project Ideas Template
+# SBOL Industrial Summer Project Proposal Template
 
 **Note**:  
 While any project within this scope will be considered, SBOL Industrial is particularly interested in projects that provide:
