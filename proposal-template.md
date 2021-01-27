@@ -32,8 +32,4 @@ Proposed Technical Advisor:
 #### Specific technical goals to be accomplished:
 #### Milestones in 1-month increments, with criteria for success or failure at each milestone:
 
-
-### Public Repository
-Please link to a public, open-source repository for your project. 
-
 ---
