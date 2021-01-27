@@ -1,4 +1,4 @@
-# SBOL Industrial Summer 2021 Project Ideas Template
+# SBOL Industrial Summer Project Ideas Template
 
 **Note**:  
 While any project within this scope will be considered, SBOL Industrial is particularly interested in projects that provide:
