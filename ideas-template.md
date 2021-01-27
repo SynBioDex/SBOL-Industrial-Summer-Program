@@ -1,11 +1,4 @@
----
-name: SBOL Industrial Summer Project (SISP) idea
-about: Template for new SISP project ideas
-title: ''
-labels: ''
-assignees: ''
-
----
+# SBOL Industrial Summer 2021 Project Ideas Template
 
 **Note**:  
 While any project within this scope will be considered, SBOL Industrial is particularly interested in projects that provide:
