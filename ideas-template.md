@@ -10,6 +10,8 @@ Project proposals are welcomed from any individual with the appropriate skills a
 
 Projects are intended for a 3 month summer period with compensation of $6,000 (US), though smaller-scale projects are acceptable as well. Proposals are due by **February 15th, 2021**, following the forms below, and will be notified of acceptance or rejection by March 15th, 2021.
 
+---
+
 ### Proposer
 - Name: 
 - Institution: 
