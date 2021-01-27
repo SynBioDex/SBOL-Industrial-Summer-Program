@@ -1,8 +1,8 @@
 ---
 name: SBOL Industrial Summer Project Ideas Template
 about: This template can be used by SBOL community members to share project ideas.
-title: Title
-labels: Template
+title: ''
+labels: ''
 assignees: ''
 
 ---
